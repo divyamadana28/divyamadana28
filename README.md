@@ -1,8 +1,8 @@
 1. Hi,
 2. I am Madana Divya
 3. I belong to Srikalahasti, Andhra Pradesh, India
-4. Currently I am pursuing B.Tech in the stream of Computer Science and Engineering from Chadalawada Ramanamma Engineering College
-5. I have keen interest in Java,python and DBMS
+4. Icompleted my  B.Tech in the stream of Computer Science and Engineering from Chadalawada Ramanamma Engineering College
+5. I have keen interest in Java,python,SpringBoot.
 6. I have done some certification courses in python, Artificial intelligence
 7. In my leisure times, I love to listen music
 
